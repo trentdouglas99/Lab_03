@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab_03</string>
+    <string name="score" >Score:\u0020</string>
+    <string name="t">True</string>
+    <string name="f">False</string>
+    <string name="question1">Colorado School of Mines is located in South Bend, IN.</string>
+    <string name="question2">Turtles can breathe through their butts</string>
+    <string name="question3">Megalodon was real</string>
+    <string name="question4">A whale has 3 hearts</string>
+    <string name="question5">Nemo is a clown fish</string>
+    <string name="correct_toast">Your knowledge is undoubtedly top notch!</string>
+    <string name="incorrect_toast">You must consult the elders for additional training.</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
